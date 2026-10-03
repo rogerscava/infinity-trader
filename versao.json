@@ -1,5 +1,5 @@
 {
-  "versao": "1.3",
-  "url": "https://github.com/rogerscava/infinity-trader/releases/download/v1.3/Instalador.Infinity.Trader.OB.1.3.exe",
-  "notas": "Atualizacao automatica: a partir desta versao o robo avisa e se atualiza sozinho quando sair versao nova."
+  "versao": "1.4",
+  "url": "https://github.com/rogerscava/infinity-trader/releases/download/v1.4/Instalador.Infinity.Trader.OB.1.4.exe",
+  "notas": "Novo módulo GERADOR DE SINAIS: analisa, cataloga, filtra e executa (M1 a M30, gale até 3, período de horas, filtros de tendência, tempo maior, confluência, catálogo e notícia).\nA lista de sinais colada saiu do módulo Telegram e foi para o Gerador.\nTelas dos módulos novos no mesmo visual das telas originais.\nFiltro de notícias voltou a funcionar (nova fonte do calendário)."
 }
